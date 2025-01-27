@@ -11,6 +11,7 @@ I’m a **Data Science professional** with a background in **Industrial Engineer
 
 ## 🔬 Projects & Experience
 
+- **RestaurantGuru**: Built and deployed a recommendation system using sentiment analysis and user-centered needs. Implemented a Streamlit server and performed the deploy on **GCP**.
 - **Telecommunications Analysis**: Analyzed the telecommunications sector in Argentina, deriving actionable insights.  
 - **ML Solutions**: Built and deployed recommendation engines, as well as advanced forecasting models, to solve real-world problems.  
 - **Business Impact**: Combined technical expertise with strategic thinking to drive operational efficiency and deliver tangible value.
